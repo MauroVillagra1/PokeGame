@@ -42,7 +42,7 @@ function App() {
         <ResultScreen score={score} onPlayAgain={goHome} />
       )}
       <a 
-        href="#" 
+        href="https://maurovillagra-portafolio.netlify.app" 
         className="creator-link" 
         target="_blank" 
         rel="noopener noreferrer"
